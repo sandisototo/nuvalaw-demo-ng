@@ -1,0 +1,25 @@
+.green {
+  color: #84c438;
+}
+
+.h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Lineto circular", sans-serif;
+  color: #673ab7;
+  font-size: 56px;
+  line-height: 115%;
+  font-weight: 700;
+}
+
+.text_18 {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  color: #496f85;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  text-align: center;
+}
